@@ -1,3 +1,4 @@
-S=int(input("S:")) 
+#You are given a side S and your task is to find the Area of the square.
+int(input("S:")) 
 Area = S*S
 print (Area)
